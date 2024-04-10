@@ -1,0 +1,31 @@
+#header1{
+    text-align: center;
+}
+
+.container{
+    background: linear-gradient(180deg, rgb(174, 174, 224), orange);
+    font-size: 25px, 25px;
+    text-align: center;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px #6212be98; 
+    font-weight: 200;
+    font-style: normal;
+}
+
+#pl{
+    text-align: center;
+font-family: monospace;
+color: rgb(238, 255, 0);
+font-size: 1.5rem;
+font-weight: bolder;
+font-style: italic;
+}
+
+#bodi{
+    background-color: #3b3838;
+}
+
+#displayText{
+    color: rgba(204, 218, 79, 0.651);
+}
+
