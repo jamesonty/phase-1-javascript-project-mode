@@ -21,6 +21,14 @@
 #### click event - display hidden text
 ##
 
-##
+## installation
+### https://github.com/jamesonty/phase-1-javascript-project-mode.git
+#### paste the url above to your browser and enter
+
+## how to use
+#### It's simple, in the search tab you could search an anime of your choice ("it should b in English"). A responce is developed by the api and is displayed as an image, title of the anime, a synopsis, and a Youtube url trailer
+
+## NB
+#### i don't feel like i've done it accordingly but i will delve into ensuring that it works better in the comin day. I presented it just so that i don't miss on the garading
 
 
